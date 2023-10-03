@@ -1,5 +1,5 @@
 # C++ Guide
-A repository for C++ codebase structure and rules
+C++ codebase structure and rules
 ```cpp
 project_name/
     ├── src/
